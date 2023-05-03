@@ -2,7 +2,7 @@
 ```
 Many people spend their free time watching TV dramas, movies or variety shows.
 With the rise of e-sports, playing video games has become a popular hobby in Korea.
-Many people enjoy playing games on their computer or mobile devies, either alone or with friends.
+Many people enjoy playing games on their computer or mobile devices, either alone or with friends.
 Koreans place a high value on health and fitness, so many people use their free time to exercise.
 Spending time with friends and family is an important part of Korean culture. People might meet up for a
 meal, go to a cafe, or participate in group activities like hiking or sports.
