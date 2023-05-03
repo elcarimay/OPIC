@@ -12,4 +12,4 @@
 
 ## The busiest people have the most time. Diligent work pays off in the end.
 
-### -알렉산드리아 피네(
+### -알렉산드리아 피네(Alexandria Pine)-
