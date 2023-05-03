@@ -3,13 +3,13 @@
 Many young people in Korea desire to work for well-established companies, often referred to as "big companies".
 Some of the most popular companies are Samsung, LG, Hyundai, and SK Group.
 There are several reasons why young people in Korea want to work for these companies.
-One is the perception that these companies offer stability and job security, which is particularly important
+One is the perception(지각) that these companies offer stability and job security(직업보장), which is particularly important
 given the competitive job market in Korea. In addition, these companies often offer high salaries and generous
 benefits packages, which can be very attractive to young job seekers.
 Another reason why these companies are popular is that they are seen as offering opportunities for career
 advancement and professional development. Many young Koreans view working for a large company as a way to
 gain valuable experience and build their resume, which can help them in their future careers.
-Finally, some young people in Korea are drawn to these companies because of their strong brand recognition and
+Finally, some young people in Korea are attracted by these companies because of their strong brand recognition and
 reputation. Companies like Samsung and Hyundai are not only household names in Korea but are also recognized
 globally, which can be appealing to young job seekers who want to work for a respected and successful company.
 ```
@@ -20,22 +20,18 @@ One of the most successful companies in this industry is Nexon, a South Korean g
 Nexon is known for creating popular online games such as MapleStory and KartRider, which have gained a large following both
 in Korea and internationally. One of the reasons why Nexon has been so successful is because they were early adopters of the
 free-to-play business model, which allows players to download and play the games for free, but charges for in-game items or features.
-In addition to their success in the video game industry, Nexon is also known for their commitment to corporate social responsibility.
-The company has established various initiatives to give back to the community, such as the Nexon Foundation, which provides support
-for education and cultural programs.
-Overall, Nexon is a company that has gained a reputation for its innovative business model, successful video games, and commitment
-to social responsibility. As the video game industry continues to grow in Korea and around the world, Nexon is well-positioned to 
-remain a major player in the market.
+Overall, Nexon is a company that has gained a reputation for its innovative business model, successful video games. As the video game
+industry continues to grow in Korea and around the world, Nexon is well-positioned to remain a major player in the market.
 ```
 # Talk about some difficulties or challenges of the industry you mentioned before. What are some difficuties?
 ```
 While the video game industry in Korea has been growing rapidly, there are also some challenges that companies in this industry face.
-One of the main difficulties is the intense competition in the market. There are many game companies in Korea, and new ones are
-constantly emerging, which makes it harder for companies to stand out and succeed.
+One of the main difficulties is the great competition in the market. There are many game companies in Korea, and new ones are
+constantly emerging(최근 생겨난), which makes it harder for companies to stand out and succeed.
 Another challenge is the changing preferences of gamers. As technology advances and new gaming platforms emerge, gamers' preferences
 can shift quickly, making it difficult for game companies to keep up and create games that will remain popular for a long time.
-In addition, there is increasing concern about video game addiction and its negative effects on young people, which has led to calls
-for stricter regulations on the industry.
+In addition, there is increasing concern(우려) about video game addiction(게임중독) and its negative effects on young people, which
+has led to calls for strict regulations on the industry.
 Finally, as the industry becomes more globalized, game companies in Korea must compete with international companies, which can be
 challenging due to language barriers, cultural differences, and other factors.
 ```
