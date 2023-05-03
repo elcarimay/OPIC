@@ -12,7 +12,7 @@ One special thing is that they hold a memorial service for their ancestors.
 
 Nowadays, I can see many people travel abroad or nearby to spend their national holidays.
 ```
-# 2. what did they do at their last gathering or celebration? what was the occasion?
+# 2. What did they do at their last gathering or celebration? What was the occasion?
 ```
 At the last Seollal gathering, family members came together to celebrate the new year and honor their ancestors.
 The occasion was especially significant because it was the first time that the entire family had been able to
@@ -34,7 +34,7 @@ The atmosphere was one of warmth, love, and gratitude for the opportunity to be 
 Overall, the Seollal gathering was a joyful occasion filled with meaningful ceremony, delicious food, and
 cherished moments of togetherness. It was a reminder of the importance of family.
 ```
-# 3. Talk about a memorable incident that happened at a gathering or a celebration. what happened?
+# 3. Talk about a memorable incident that happened at a gathering or a celebration. What happened?
 ```
 At a family gathering for Seollal, everyone was sitting down to enjoy a big feast of traditional Korean dishes.
 As they were passing around dishes of steaming hot food, one of the younger children accidentally spilled
