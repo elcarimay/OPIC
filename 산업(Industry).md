@@ -15,7 +15,7 @@ globally, which can be appealing to young job seekers who want to work for a res
 ```
 # Talk about one of the rising industries or companies in Korea. Why is it famous? What is special about that company or industry?
 ```
-One of the rising industries in Korea is the video game industry, which has been growing steadily in recent years.
+One of the rising industries in Korea is the video game industry, which has been growing steadily in recently.
 One of the most successful companies in this industry is Nexon, a South Korean gaming company that was founded in 1994.
 Nexon is known for creating popular online games such as MapleStory and KartRider, which have gained a large following both
 in Korea and internationally. One of the reasons why Nexon has been so successful is because they were early adopters of the
