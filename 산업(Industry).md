@@ -25,7 +25,7 @@ industry continues to grow in Korea and around the world, Nexon is well-position
 ```
 # Talk about some difficulties or challenges of the industry you mentioned before. What are some difficuties?
 ```
-While the video game industry in Korea has been growing rapidly, there are also some challenges that companies in this industry face.
+While the video game industry in Korea has been growing rapidly, there are also some challenges in this industry face.
 One of the main difficulties is the great competition in the market. There are many game companies in Korea, and new ones are
 constantly emerging(최근 생겨난), which makes it harder for companies to stand out and succeed.
 Another challenge is the changing preferences of gamers. As technology advances and new gaming platforms emerge, gamers' preferences
