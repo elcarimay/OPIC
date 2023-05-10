@@ -8,7 +8,6 @@ which can be dangerous to park visitors.
 To resolve this issue, it is important to encourage park visitors to take responsibility for their trash
 and dispose of it properly. This can be done through education and awareness campaigns, such as signs
 that remind visitors to properly dispose of their trash. Additionally, park staff can increase the
-frequency of trash pick-up and work to make trash and recycling receptacles more easily accessible
-to visitors. By working together to address this issue, we can help keep our parks clean and beautiful
-for visitors.
+frequency of trash pick-up and recycling containers more easily accessible to visitors.
+By working together to address this issue, we can help keep our parks clean and beautiful for visitors.
 ```
