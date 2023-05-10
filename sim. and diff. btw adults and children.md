@@ -1,4 +1,5 @@
 # Compare the activities that children do at the park with the ones that adults do at the park. What are the similarities and the differences?
+
 ```
 First, there are some similarities.
 Both children and adults can enjoy nature and fresh air at the park.
