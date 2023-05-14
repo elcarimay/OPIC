@@ -20,3 +20,12 @@ with my family. The weather was bad because it rained, but it was good to see fl
 And after, we went to the National Museum of korea. There were historical puzzles and souvenirs for children.
 It was a happy day to my family.
 ```
+# Which performance or show did you last watch? When did you watch it and which theater did you go to? What did you do befor and after going to the theater?
+```
+I watched a movie called Galaxy of Guardians three in the theater on May 4th.
+The movie theater is located in Dongtan, hwaseoung city.
+Before going to the theater, I had checked the showtimes and bought tickets online.
+I had also planned to arrive early to get a good seat and buy some snacks or drinks.
+After watching the movie, I had discussed the plot and characters with my son.
+I had shared my opinions and favorite scenes from the movie. And I came back at home with my family.
+```
