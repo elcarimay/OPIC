@@ -27,7 +27,7 @@ The movie theater is located in Dongtan, hwaseoung city.
 Before going to the theater, I had checked the showtimes and bought tickets online.
 I had also planned to arrive early to get a good seat and buy some snacks or drinks.
 After watching the movie, I had discussed the plot and characters with my son.
-I had shared my opinions and favorite scenes from the movie. And I came back at home by the car.
+I had shared my opinions and favorite scenes from the movie. And I came back at home.
 ```
 # Please tell me about one of your experiences when you went to the park recently. Give me a full story of what you did from the moment you arrived at the park until you left.
 ```
