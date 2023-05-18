@@ -23,7 +23,8 @@ way to sort their waste or if they are careless about it.
 
 Another problem can be related to the collection and disposal of the recyclables. In some cases, the recycling collection
 service may not be available or may not be properly managed, leading to pileups of waste and recyclables.
-This can result in overflowing bins and littered streets, causing inconvenience and even health hazards for people living in the area.
+This can result in overflowing bins and littered streets, causing inconvenience and even health hazards for
+people living in the area.
 
 To resolve these problems, it is important to educate people about the proper way to sort and dispose of their waste,
 and to ensure that there are proper waste management systems in place. 
