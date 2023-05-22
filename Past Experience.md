@@ -33,7 +33,7 @@ I had shared my opinions and favorite scenes from the movie. And I came back at 
 ```
 I went to the park with my son by bicycle last Sunday. There were soccer fields, basketball courts, etc. in the park.
 I played soccer with my son because he likes soccer. My son likes to break through, but I like to pass,
-so I decided to do it half and half and did it for about an hour.
+so we decided to do it half and half and did it for about an hour.
 After one hour, we sweated,and we went to the convenience store and bought ice cream and drinks,
 and came home riding a bicycle
 ```
