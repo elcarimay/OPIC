@@ -32,7 +32,7 @@ I had shared my opinions and favorite scenes from the movie. And I came back at 
 ```
 # Please tell me about one of your experiences when you went to the park recently. Give me a full story of what you did from the moment you arrived at the park until you left.
 ```
-I went to the park with my son by bicycle last Sunday. There were soccer fields, basketball courts, etc. in the park.
+I went to the park with my son by bicycle last Sunday. There were soccer fields, basketball courts, etc.
 I played soccer with my son because he likes soccer. My son likes to break through, but I like to pass,
 so we decided to do it half and half and did it for about an hour.
 After one hour, we sweated,and we went to the convenience store and bought ice cream and drinks,
