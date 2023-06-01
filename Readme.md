@@ -20,3 +20,4 @@ https://www.vingle.net/posts/853573
 ## Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER"
 https://www.youtube.com/watch?v=kBdfcR-8hEY&t=586s
 
+https://davey.tistory.com/entry/TED-%ED%85%8C%EB%93%9C-%EC%98%81%EC%96%B4-%EA%B3%B5%EB%B6%80
