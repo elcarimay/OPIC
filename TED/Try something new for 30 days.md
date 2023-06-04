@@ -1,3 +1,4 @@
+```
 A few years ago, I felt like I was stuck in a rut, so I decided to follow in the footsteps of the great American philosopher,
 Morgan Spurlock, and try something new for 30 days. The idea is actually pretty simple.
 Think about something you've always wanted to add to your life and try it for the next 30 days.
@@ -27,3 +28,4 @@ In fact, they're a ton of fun. But they're less likely to stick. When I gave up 
 
 So here's my question to you: What are you waiting for? I guarantee you the next 30 days are going to pass whether
 you like it or not, so why not think about something you have always wanted to try and give it a shot! For the next 30 days.
+```
