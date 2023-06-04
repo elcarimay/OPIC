@@ -1,4 +1,4 @@
-# Have you ever canceled plans because of something unexpected?
+## Have you ever canceled plans because of something unexpected?
 ```
 In general, Campers are sensitive to the weather, so they wake up, turn on the weather app in their cellphone, and
 check the today's weather.
