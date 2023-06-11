@@ -10,9 +10,6 @@ https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days?utm_campaign=
 ## TED 강연 해설 - 포마스쿨 장기프로젝트
 https://www.youtube.com/watch?v=x9ET9UY2QcY&list=PLLXklcwnaORcB8V9qZN9Hjaa7-d-m4iWz
 
-## Past experience
-https://tutoringgo.com/home/en/topic/oxryvnxr4q
-
 ## Modern Family
 https://blog.naver.com/uoa811/221658219926
 
