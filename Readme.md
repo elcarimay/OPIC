@@ -7,6 +7,8 @@ https://tutoringgo.com/home/en/topic/3grxj4npzy
 ## TED 강연
 https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
 
+## TED 강연 해설 - 포마스쿨 장기프로젝트
+https://www.youtube.com/watch?v=x9ET9UY2QcY&list=PLLXklcwnaORcB8V9qZN9Hjaa7-d-m4iWz
 
 ## Past experience
 https://tutoringgo.com/home/en/topic/oxryvnxr4q
