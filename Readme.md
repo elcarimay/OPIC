@@ -1,9 +1,6 @@
 ## Opic 관련 Sites
 https://www.languagetesting.com/pub/media/wysiwyg/manuals/opic-examinee-handbook.pdf
 
-## Opic test(Mock interview)
-https://tutoringgo.com/home/en/topic/3grxj4npzy
-
 ## TED 강연
 https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
 
