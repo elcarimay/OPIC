@@ -83,3 +83,8 @@ New products are lighter and smaller than before. So, I think it's easy to carry
 Yeah I think smart phone industry will never stop growing.
 ```
 ```
+## Q2)
+__Now, talk about a promsing company in that industry you mentioned above. What kind of benefits does it bring about?__  
+## Q3)
+__Talk about some difficultes or challenges of that industry you mentioned before. What are some challenges that this industry is faced
+ with these days? Why does that industry face such difficulties?__  
