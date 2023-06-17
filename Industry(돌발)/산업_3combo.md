@@ -70,7 +70,7 @@ Diversify into IT products IT  전자 제품을 다양화
 Enjoying great popularity 큰 인기를 누리고 있다  
 
 Q1) 우리나라 유망 산업 묘사
-__Talk about one of the rising industries or companies in your country. Why is that industry or company famous, and  
+__Talk about one of the rising industries or companies in your country. Why is that industry or company famous, and 
 what is special about it? Do you personally want in that industry or company?__  
 ```
 Well, I think electronic products has been steadily growing. I think it's a guite surprise since it's been only 20 years.  
