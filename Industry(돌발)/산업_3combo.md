@@ -70,4 +70,16 @@ Diversify into IT products IT  전자 제품을 다양화
 Enjoying great popularity 큰 인기를 누리고 있다  
 
 Q1) 우리나라 유망 산업 묘사
-_Talk about one of_
+__Talk about one of the rising industries or companies in your country. Why is that industry or company famous, and  
+what is special about it? Do you personally want in that industry or company?__  
+```
+Well, I think electronic products has been steadily growing. I think it's a guite surprise since it's been only 20 years.  
+Yeah, let me tell about one of the most popular brand "Samsung Smart Phone".  
+As I know, samsung invested a lot in R&D. So, they have been producing one of the best smart phone worldwide.  
+As a result, samsung phones have highly developed technologies. And Samsung phones have became popular internationally.  
+In the past, cell phones were used only to call and text.  
+Nowadays, people can do all kind of things like internet surfing, online banking, shopping and many other things.  
+New products are lighter and smaller than before. So, I think it's easy to carry.  
+Yeah I think smart phone industry will never stop growing.
+```
+```
