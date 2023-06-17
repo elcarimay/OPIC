@@ -50,4 +50,24 @@ One of the Fastest growing industries
 Take online courses  
 In-house training  사내연수  
 Export-driven economy 수출위주의 경제  
+Knowledge-based  
+Move toward 지향하다  
+Have a bright future  
+Have continued to help the industry grow 산업이 발전하도록 계속 돕다  
+High paying jobs 고소득 직종  
+Have created high-paying jobs 고소득 연봉잡을 창출해내다  
+Have been massive improvements 엄청난 발전이 있었다  
+Developing country 개발 도상국  
+Developed country 선진국  
+Have been steadily growing 꾸준히 성장해오고 있는  
+Become popular internationally  
+Get help from other countries  
+Quite a surprise 실제로 놀라운 일  
+Have almost no natural resources 천연자원이 거의 없다  
+Korean wave  
+Have the potential for future growth  
+Diversify into IT products IT  전자 제품을 다양화  
+Enjoying great popularity 큰 인기를 누리고 있다  
 
+Q1) 우리나라 유망 산업 묘사
+__Talk about one of__
