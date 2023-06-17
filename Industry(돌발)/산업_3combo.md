@@ -48,5 +48,6 @@ challenging due to language barriers, cultural differences, and other factors.
 One of the most promising industries  
 One of the Fastest growing industries  
 Take online courses  
-In-houise training  
-  
+In-house training  사내연수  
+Export-driven economy 수출위주의 경제  
+
