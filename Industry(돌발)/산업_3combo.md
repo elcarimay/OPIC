@@ -70,4 +70,4 @@ Diversify into IT products IT  전자 제품을 다양화
 Enjoying great popularity 큰 인기를 누리고 있다  
 
 Q1) 우리나라 유망 산업 묘사
-__Talk about one of__
+_Talk about one of_
