@@ -44,7 +44,7 @@ challenging due to language barriers, cultural differences, and other factors.
 유형 7. 사람들이 진로를 위해서 하는 일  
 유형 8. 과거-현재 산업 비교  
 
-<Key Expressions>  
+## Key Expressions
 One of the most promising industries  
 One of the Fastest growing industries  
 Take online courses  
