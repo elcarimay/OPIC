@@ -35,17 +35,18 @@ has led to calls for strict regulations on the industry.
 Finally, as the industry becomes more globalized, game companies in Korea must compete with international companies, which can be
 challenging due to language barriers, cultural differences, and other factors.
 ```
-유형 1. 우리나라 유망 산업 묘사
-유형 2. 산업 중 전도 유망한 기업과 그 이유
-유형 3. 그 산업이 직면한 문제점, 해결책
-유형 4. 그 산업이 우리나라에 주는 이점
-유형 5. 요즘 젊은 사람들이 일하기 원하는 분야/기업
-유형 6. 커리어를 쌓기 위한 본인의 노력들
-유형 7. 사람들이 진로를 위해서 하는 일
-유형 8. 과거-현재 산업 비교
+유형 1. 우리나라 유망 산업 묘사  
+유형 2. 산업 중 전도 유망한 기업과 그 이유  
+유형 3. 그 산업이 직면한 문제점, 해결책  
+유형 4. 그 산업이 우리나라에 주는 이점  
+유형 5. 요즘 젊은 사람들이 일하기 원하는 분야/기업  
+유형 6. 커리어를 쌓기 위한 본인의 노력들  
+유형 7. 사람들이 진로를 위해서 하는 일  
+유형 8. 과거-현재 산업 비교  
 
-<Key Expressions>
-One of the most promising industries
-One of the Fastest growing industries
-Take online courses
-In-houise training
+<Key Expressions>  
+One of the most promising industries  
+One of the Fastest growing industries  
+Take online courses  
+In-houise training  
+  
