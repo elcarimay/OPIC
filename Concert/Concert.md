@@ -27,7 +27,7 @@ get a seat in the front row. Anyway, these are all about the concert hall I usua
 ### Role play  
 __I'm sorry, but you have a problem to handle. Let's imagine that your friend and you planned to go to a concert hall. But you can't  
 go with your friend because concert was cancelled. Call your friend, and leave a message. Explain the situation, and offer some  
-solutions.  
+solutions.__  
 ```
 친구한테 전화 → 상황 설명 → 해결책(이거 아님 다른거 어때?) → 마무리 
 hey
