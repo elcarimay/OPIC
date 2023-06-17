@@ -82,9 +82,38 @@ Nowadays, people can do all kind of things like internet surfing, online banking
 New products are lighter and smaller than before. So, I think it's easy to carry.  
 Yeah I think smart phone industry will never stop growing.
 ```
-```
 ## Q2)
 __Now, talk about a promsing company in that industry you mentioned above. What kind of benefits does it bring about?__  
 ## Q3)
 __Talk about some difficultes or challenges of that industry you mentioned before. What are some challenges that this industry is faced
  with these days? Why does that industry face such difficulties?__  
+## Q4)
+__What kind of companies do young people want to work for these days? Why do they want to work for those companies? Give me specific examples of the industry or company.__  
+## Q5)
+__What kinds of efforts have you made so far for your career? Tell me about any working experience or individual efforts that you have made for your future career.__  
+## Q6)
+__What do people do to prepare for a job? Do they go to school?__  
+```
+What do I for my career? well... people do many different things like exercising, taking online classes and learn english  
+In my case, I study english very hard. Because it's necessary for my work. Actually, I have to work on my language skills.  
+Because my clients are in overseas, so engligh is very important for my job. Also, I can get promoted with a great english test score.  
+So far, I have been taking in-house training at work. It's not easy but I think it's worth it.  
+And these are what I do in my career.  
+```
+## Technology Key Word  
+You can think of 흔히 생각하는  
+search engines  
+put in your search term  
+run the search  
+highly advanced  
+time-saving ↔ time-consuming  
+Everything is getting faster and faster, and smaller and smaller.  
+state-of-the-art = newest product 최신식의  
+a laptop(computer) 노트북 컴퓨터  
+search for information 정보를 찾다  
+```
+"Samsung pay"  
+People don't need to carry their credit card any more. Because we can pay anything with our phone.  
+Basically, it's like a my credit card is installed on my phone. So, whenever I need to pay, I need to open the app  
+called "Samsung pay", which is pretty similar with " Apple pay". It's one example of digital wallet service.  
+```
