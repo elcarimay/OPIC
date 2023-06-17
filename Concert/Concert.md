@@ -30,5 +30,13 @@ go with your friend because concert was cancelled. Call your friend, and leave a
 solutions.__  
 ```
 친구한테 전화 → 상황 설명 → 해결책(이거 아님 다른거 어때?) → 마무리 
-hey
+Hey, buddy .. It's me .. I'm afraid to say this about the concert we are supposed to go together was canceled due to severe weather.  
+I believe I had to check weather forecast before I suggested this concert .. but anyway .. I want to apologize for this .. and I  
+would like to offer you some alternatives .. Backup plans .. I have two options for you and you can choose whatever you like  
+First, ~~  
+Second, ~~  
+
+Once again, I want you to know that I'm also frustrated. / Once again, I'm really sorry about this.  
+And please consider my options for you and please let me know asap.
+Please get back to me as soon as possible.
 ```
