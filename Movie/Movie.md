@@ -14,7 +14,7 @@ Twist 반전
 Acting 연기력  
 Movie-goar 영화 관람객  
 Sci-Fi-SF 영화  
-##__Q1) What is your favorite movie genre? Why do you like those movie?__  
+## __Q1) What is your favorite movie genre? Why do you like those movie?__  
 ```
 Yeah, my favorite movie genre? well .. it's a hard question ..
 I love all kinds .. because it's all different .. you know ..
@@ -30,7 +30,7 @@ whenever this movie is released, I have to go to the movie theatre to see it. I 
 Avengers series is way more popular here in Korea than any other Asian countries.  
 Overall, these are all about my favorite movie genre.  
 ```
-##__Q2) Tell me about the movie theater you went recently. What did you do before and after the movie?__
+## __Q2) Tell me about the movie theater you went recently. What did you do before and after the movie?__
 ```
 I remember going to the movie theater nearby my place. Yeah, actually movie theater is only 10 minutes by walk, so I  
 like to go there especially on Friday night.  
@@ -43,7 +43,7 @@ After the movie, I like to walk around the shopping mall and browse things. The 
 the shopping mall, so that's what I do. If I get hungry, I go to the restaurant to have lunch or dinner. And I talk  
 about the movie with my boyfriend. I think that's all about it!!! 
 ``` 
-##__Q3) What was the most memorable movie you watched in the past? what was it about? What was so special about the movie?  
+## __Q3) What was the most memorable movie you watched in the past? what was it about? What was so special about the movie?  
 Would you recommend to other people?__
 ```
 → 가장 기억에 남는 영화, 줄거리  
@@ -59,7 +59,7 @@ There were so many people like news reporters, journalists, cameramen and lots o
 very hard but I was lucky enough to get them. And it was Valentine's day, so it was way more special than anything else.  
 (왜 특별했는지 소개)
 ```
-##__Q4) Tell me about one of the actors who was in the news because of some issue recently. What was the issue about? How did the news  
+## __Q4) Tell me about one of the actors who was in the news because of some issue recently. What was the issue about? How did the news  
 effect your impression of that actor?__
 ```
 Well.. recently I heared about my favorite Hollywood actor.. Robert Downey Jr. Yeah.. the Iron Man guy..
@@ -75,7 +75,7 @@ about 40% less than usual but he didn't mind accepting that offer since he reall
 Even though.. he made this kind of decision.. I will be remained as one of his fan ..(나의 느낌)  
 And this is all about the news .. I heared(마무리)  
 ```
-##__Q5) Could you compare the movies made today to movies you saw while you were growing up?__
+## __Q5) Could you compare the movies made today to movies you saw while you were growing up?__
 ```
 → 과거, 현재 영화 작품들의 변화  
 Yeah.. I used to watch Hollywood movies quite often when I was a kid. Because Korean movies were not very great.. The storyline of  
@@ -89,7 +89,7 @@ Asian movies and some Korean movies are big hit.(해외에서 한국 영화 개�
 
 Yeah, I think there are the biggest changes .. compared to the past.(마무리)  
 ```
-##__Q6) When you talk about movies with your friends or family members, what topics do you discuss? Why are these issues of interest  
+## __Q6) When you talk about movies with your friends or family members, what topics do you discuss? Why are these issues of interest  
 or concern to you and your friends? What makes them so important? Plus, what are some important trends in the movie industry?__
 ```
 → 영화관련 대화 주제, 최근 영화계 트렌드  
