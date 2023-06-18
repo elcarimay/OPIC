@@ -46,5 +46,56 @@ about the movie with my boyfriend. I think that's all about it!!!
 ##__Q3) What was the most memorable movie you watched in the past? what was it about? What was so special about the movie?  
 Would you recommend to other people?__
 ```
+→ 가장 기억에 남는 영화, 줄거리  
+There are so many movies I watched .. and they were all different .. So it's pretty much all memorable to me .. but  
+I would say. Golden Slumber was the most memorable movie I watched in the past. Actually, this movie is based on Japanese novel.  
+In this film, one deliveryman flees for his life after he's framed for a politican's assassination. His best friend  
+betrayed him and framed him for crime. It didn't have any special effect like SF movies but pretty intense.  
+Furthermore, I love 강동원 who is well-known korean actor so it was pretty good movie to me.(영화에 관한 설명)  
+While I was watching this movie, I thought about trust and need to figure out who is trustworthy.(영화보고 느낀 점)  
+→ 영화에 대한 소개  
+Honestly.. the reason this movie was so special to me .. was I went to this movie preview .. so I could see 강동원 and other movie stars.  
+There were so many people like news reporters, journalists, cameramen and lots of his fans. Getting tickets to this event was  
+very hard but I was lucky enough to get them. And it was Valentine's day, so it was way more special than anything else.  
+(왜 특별했는지 소개)
+```
+##__Q4) Tell me about one of the actors who was in the news because of some issue recently. What was the issue about? How did the news  
+effect your impression of that actor?__
+```
+Well.. recently I heared about my favorite Hollywood actor.. Robert Downey Jr. Yeah.. the Iron Man guy..
+The thing is .. he's not going to be on Avengers series any more because his guarantee is soaring way too high and it looks like  
+they could not find a way to compromise. Well.. I think it's kind of sweet bitter. I mean.. it's good for him but there are tons of  
+his fans who wants to see Iron Men in film. Especially, he's the most important man in film.. you know.. while some movie stars are  
+obsessed with money, some Hollywood statrs don't mind as long as they are really into the role or scenario.(뉴스에 대해 들은 것.)  
 
+For example, Jim Carrey who is also very well-known actor who played leading role in the movie "Eternal Sunshine", his guarantee was  
+about 40% less than usual but he didn't mind accepting that offer since he really liked it's scenario and his rocked it!!  
+(개런티 적게 받은 짐캐리)  
+
+Even though.. he made this kind of decision.. I will be remained as one of his fan ..(나의 느낌)  
+And this is all about the news .. I heared(마무리)  
+```
+##__Q5) Could you compare the movies made today to movies you saw while you were growing up?__
+```
+→ 과거, 현재 영화 작품들의 변화  
+Yeah.. I used to watch Hollywood movies quite often when I was a kid. Because Korean movies were not very great.. The storyline of  
+the moive was not very interesting and it didn't have great quality. So most people preferred to watch Hollywood movies. And I  
+also did .. However, things are changed and some of them are a lot better in quality. Also, Korean movies are hitting the all-time 
+record at the Korean box office. (예전 한국 영화는 별로 였다.)  
+
+Some well-made movies are also released overseas which is pretty awesome! I guess most people could not imagine this can happen as  
+I mentioned, it didn't have any solid storyline and many things were poor in quality. Nowadays, even westerners became intested in  
+Asian movies and some Korean movies are big hit.(해외에서 한국 영화 개봉)  
+
+Yeah, I think there are the biggest changes .. compared to the past.(마무리)  
+```
+##__Q6) When you talk about movies with your friends or family members, what topics do you discuss? Why are these issues of interest  
+or concern to you and your friends? What makes them so important? Plus, what are some important trends in the movie industry?__
+```
+→ 영화관련 대화 주제, 최근 영화계 트렌드  
+The lastest trend in the movie industry in 3D or 4D. Many movies are shot in 3D and people are becoming familiar with this.  
+Some movies are released in 4D as well. Big-scale movies are shown to large screen such as the IMAX theaters.  
+Many movie theater have built premium theater to follow this trend and meet needs. The trend has moved in 3D at home as well.  
+So people can watch 3D movies even at home. Overall, movie technology is developing and movie-goers can enjoy it even better than before.  
+Yeah. That's all about some recent trends in the movie.
 ```
