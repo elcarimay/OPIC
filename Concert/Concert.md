@@ -27,7 +27,6 @@ __I'm sorry, but you have a problem to handle. Let's imagine that your friend an
 go with your friend because concert was cancelled. Call your friend, and leave a message. Explain the situation, and offer some  
 solutions.__  
 ```
-친구한테 전화 → 상황 설명 → 해결책(이거 아님 다른거 어때?) → 마무리 
 Hey, buddy .. It's me .. I'm afraid to say this about the concert we are supposed to go together was canceled due to severe weather.  
 I believe I had to check weather forecast before I suggested this concert .. but anyway .. I want to apologize for this .. and I  
 would like to offer you some alternatives .. Backup plans .. I have two options for you and you can choose whatever you like.
