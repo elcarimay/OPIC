@@ -17,3 +17,5 @@ If you were interviewing someone for this position in OPIC, what traits would yo
 If you had enough money to retire would you?
 
 <img src = "https://user-images.githubusercontent.com/103011254/254080501-2ccf22aa-cf04-4321-adba-0c89e56d1be6.JPG" width="90%"></img>
+
+<img src = "https://user-images.githubusercontent.com/103011254/254412459-57c1460c-207b-40af-a257-59b833299147.JPG" width="90%"></img>
