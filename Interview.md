@@ -11,11 +11,53 @@ holiday? Why?
 • How do you prepare for a holiday?
 
 What kind of work interests you the  most?
-
 If you were interviewing someone for this position in OPIC, what traits would you look for?
-
 If you had enough money to retire would you?
 
-<img src = "https://user-images.githubusercontent.com/103011254/254080501-2ccf22aa-cf04-4321-adba-0c89e56d1be6.JPG" width="90%"></img>
+Opic Background survey 12개
+학생 아님
+수강후 5년이상 지남
+가족과 함께 주택이나 아파트 거주
+영화보기, 컨서트 보기, 공원가기, 해변가기, 카페/커피전문점 가기
+음악감상
+운동전혀하지 않음
+조깅/걷기
+집에서 보내는 휴가, 국내여행, 해외여행
 
-<img src = "https://user-images.githubusercontent.com/103011254/254412459-57c1460c-207b-40af-a257-59b833299147.JPG" width="90%"></img>
+After this class, I go to my sleeping son. Whenever I saw him,
+my wife always told me that please don't wake him up.
+Because if I keep an eye on him, I will call your son without thinking.
+Then my son wakes up and I get scolded by my wife. That is my daily life
+and habit. It doesn't fix well. I'm a fool for my son.
+As long as my son studies hard, it will be great.
+
+On the weekend, acquaintances came to play and played in the water.
+There was a water playground near my house, and there were many
+ children, and I was hot, but I didn't know time was passing by when
+ my son was playing. I'm a fool for my son.
+
+I'm going to go camping in Yangyang, Gangwon-do tomorrow. 
+There is a water-slideable stream of water. 
+I went there last year and it was so good that I made a reservation again.
+I'm going to connect Zoom outdoors tomorrow.
+Please understand that there may be a lot of noise.
+
+I don't make special food, but I usually eat instant food. But at night, 
+we make sure to have a campfire. Humans instinctively came close to fire
+and are said to be the driving force behind evolution. Watching the burning
+flames clears my mind and makes me feel comfortable. It's a pity that I have
+to leave tomorrow, but I'm going to enjoy today. carpe diem. It's latin language.
+
+I had a lot of fun with the water slide, I feel some tired, but my son asked me to
+continue that. I think he has infinite physical strength. 
+
+Describe your management style?
+When a situation occurs, I first solve it with the information I have or can googling
+, and if it doesn't work, I ask for help from people around me. As I said before,
+I believe in the power of collective intelligence.
+
+Tell me something about yourself?
+I'm interested in getting to know something new about anything. What I'm in the trouble
+is that I think someone has already thought about it, so I spend time finding information
+and making it mine. In addition, since I know the power of collective intelligence,
+I do not hesitate to ask something and share it if I know anything. That's the way I work.
