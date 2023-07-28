@@ -1,28 +1,28 @@
 Travelling
-• What’s your favourite means of transport and why?
-• What do you think of the traffic in your area/town? How would you improve it?
-• Could you give me directions to the nearest shop/your home from here, please?
-• Could you tell me about a holiday you enjoyed a lot?
-• What kind of holiday do you prefer and why?
+• What’s your favourite means of transport and why?  
+• What do you think of the traffic in your area/town? How would you improve it?  
+• Could you give me directions to the nearest shop/your home from here, please?  
+• Could you tell me about a holiday you enjoyed a lot?  
+• What kind of holiday do you prefer and why?  
 • What kind of accommodation and what way of travelling do you prefer when you go on
-holiday? Why?
-• What do you like doing when you are on holiday?
-• Could you tell me about your dream holiday?
-• How do you prepare for a holiday?
+holiday? Why?  
+• What do you like doing when you are on holiday?  
+• Could you tell me about your dream holiday?  
+• How do you prepare for a holiday?  
 
-What kind of work interests you the  most?
-If you were interviewing someone for this position in OPIC, what traits would you look for?
-If you had enough money to retire would you?
+What kind of work interests you the  most?  
+If you were interviewing someone for this position in OPIC, what traits would you look for?  
+If you had enough money to retire would you?  
 
-Opic Background survey 12개
-학생 아님
-수강후 5년이상 지남
-가족과 함께 주택이나 아파트 거주
-영화보기, 컨서트 보기, 공원가기, 해변가기, 카페/커피전문점 가기
-음악감상
-운동전혀하지 않음
-조깅/걷기
-집에서 보내는 휴가, 국내여행, 해외여행
+Opic Background survey 12개  
+학생 아님  
+수강후 5년이상 지남  
+가족과 함께 주택이나 아파트 거주  
+영화보기, 컨서트 보기, 공원가기, 해변가기, 카페/커피전문점 가기  
+음악감상  
+운동전혀하지 않음  
+조깅/걷기  
+집에서 보내는 휴가, 국내여행, 해외여행  
 
 After this class, I go to my sleeping son. Whenever I saw him,
 my wife always told me that please don't wake him up.
