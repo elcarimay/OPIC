@@ -26,7 +26,7 @@ Opic Background survey 12개
 
 After this class, I go to my sleeping son. Whenever I saw him,
 my wife always told me that please don't wake him up.
-Because if I keep an eye on him, I will call your son without thinking.
+Because if I keep an eye on him, I will call my son without thinking.
 Then my son wakes up and I get scolded by my wife. That is my daily life
 and habit. It doesn't fix well. I'm a fool for my son.
 As long as my son studies hard, it will be great.
