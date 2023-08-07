@@ -61,3 +61,7 @@ I'm interested in getting to know something new about anything. What I'm in the 
 is that I think someone has already thought about it, so I spend time finding information
 and making it mine. In addition, since I know the power of collective intelligence,
 I do not hesitate to ask something and share it if I know anything. That's the way I work.
+23. Explain me what do you know about our company?
+24. Describe what a "lot of work" looks like to you in OPIC? work and life balance
+25. If you have multiple projects on your plate, how do you handle completing them on time?
+26. Who has been an inspiration for you?
