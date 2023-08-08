@@ -74,7 +74,7 @@ sold a lot.
 
 24. Describe what a "lot of work" looks like to you in OPIC? work and life balance  
 I prefer to work more efficiently than to do a lot of work. I said that I will do my best  
-when I am a new employee. But I'm used to talk that I'll do it right when I become a senior employee.  
+when I am a new employee. But I'm used to talk that we should do it right when I become a senior employee.  
 In the past, there was an executive who liked a research institute that didn't turn off the light,  
 but I hated it so much. I think it is important to balance working time and living time.  
 It's called "워라벨" in korean word. That's the way I work.  
