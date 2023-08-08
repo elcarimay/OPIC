@@ -62,6 +62,28 @@ is that I think someone has already thought about it, so I spend time finding in
 and making it mine. In addition, since I know the power of collective intelligence,
 I do not hesitate to ask something and share it if I know anything. That's the way I work.
 23. Explain me what do you know about our company?
-24. Describe what a "lot of work" looks like to you in OPIC? work and life balance
-25. If you have multiple projects on your plate, how do you handle completing them on time?
-26. Who has been an inspiration for you?
+I have been working for Samsung Display for 17 years as an engineer. Samsung Display was
+established in 2012 and is equipped with smartphones, laptops, monitors, and TVs
+We are making premium display products. The company has about 20,000 employees, 34 trillion
+won in sales and 6 trillion won in operating profit last year.
+It mass-produced flexible OLEDs and foldable displays for the first time in the world and
+is currently making large display QD-OLEDs. In fact, the highest sales right now
+It's coming from the iPhone, so actually Our company's sales increase only when iPhones are
+sold a lot.  
+
+24. Describe what a "lot of work" looks like to you in OPIC? work and life balance  
+I prefer to work more efficiently than to do a lot of work. I said that I will do my best  
+when I am a new employee. But I'm used to talk that I'll do it right when I become a senior employee.  
+In the past, there was an executive who liked a research institute that didn't turn off the light,  
+but I hated it so much. I think it is important to balance working time and living time.  
+It's called "워라벨" in korean word. That's the way I work.  
+
+25. If you have multiple projects on your plate, how do you handle completing them on time?  
+First, try to list up in consideration of priorities and solve them as quickly as possible.  
+And I try to solve annoying things when I think of them because they can get more annoying  
+in the future.   
+
+26. Who has been an inspiration for you?  
+I think everyone around me inspires me. This is because I think there is something to learn in my  
+own way, whether it is bad or good. If it's a bad thing, I think I shouldn't do it next time,  
+and if it's a good thing, I wonder if there is any improvement.  
