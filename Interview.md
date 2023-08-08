@@ -87,4 +87,7 @@ in the future.
 26. Who has been an inspiration for you?  
 I think everyone around me inspires me. This is because I think there is something to learn in my  
 own way, whether it is bad or good. If it's a bad thing, I think I shouldn't do it next time,  
-and if it's a good thing, I wonder if there is any improvement.  
+and if it's a good thing, I wonder if there is any improvement.
+And What I'm in trouble about issue, I think someone has already thought about it.
+So, I usually googling the solution. and I try to make it mine.
+And I prefer to see pictures about issue. Sometimes, it give an inspiration than writing or articles.
