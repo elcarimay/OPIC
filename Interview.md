@@ -62,7 +62,7 @@ is that I think someone has already thought about it, so I spend time finding in
 and making it mine. In addition, since I know the power of collective intelligence,
 I do not hesitate to ask something and share it if I know anything. That's the way I work.  
 
-23. Explain me what do you know about our company?
+23. Explain me what do you know about our company?  
 I have been working for Samsung Display for 17 years as an engineer. Samsung Display was
 established in 2012 and is equipped with smartphones, laptops, monitors, and TVs
 We are making premium display products. The company has about 20,000 employees, 34 trillion
