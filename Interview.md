@@ -60,7 +60,8 @@ Tell me something about yourself?
 I'm interested in getting to know something new about anything. What I'm in the trouble
 is that I think someone has already thought about it, so I spend time finding information
 and making it mine. In addition, since I know the power of collective intelligence,
-I do not hesitate to ask something and share it if I know anything. That's the way I work.
+I do not hesitate to ask something and share it if I know anything. That's the way I work.  
+
 23. Explain me what do you know about our company?
 I have been working for Samsung Display for 17 years as an engineer. Samsung Display was
 established in 2012 and is equipped with smartphones, laptops, monitors, and TVs
