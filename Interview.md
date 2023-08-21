@@ -90,4 +90,35 @@ own way, whether it is bad or good. If it's a bad thing, I think I shouldn't do 
 and if it's a good thing, I wonder if there is any improvement.
 And What I'm in trouble about issue, I think someone has already thought about it.
 So, I usually googling the solution. and I try to make it mine.
-And I prefer to see pictures about issue. Sometimes, it give an inspiration than writing or articles.
+And I prefer to see pictures about issue. Sometimes, it give an inspiration than writing or articles.  
+
+8/22  
+My acquaintance's family came to play on saturday. So we went out to play because the  
+children's infinite physical strength was not enough to stay at home. we went to a rural theme  
+park located in Yongin, and there was a hut and a small water playground.  
+I didn't go in because it was only for children, but I gave up my skin in the sun to watch.  
+I hoped it would be the last time we enjoyed playing in the water in the hot summer.  
+We are booked to play in the water in early September, but we expect it to be cool then.  
+
+The hot summer still continues in Korea, and air conditioners are the only hope.  
+
+I heard that the air conditioner supply rate in Europe is low, did you know that? It turns out  
+that historic buildings are well preserved in Europe, making it difficult to install air  
+conditioners.  
+In Korea, old buildings can only be seen at museums, and most of them are rebuilt or redeveloped,  
+so it is fortunate that apartments are being built considering air conditioners from  
+the beginning. It seems that there are pros and cons in the world.  
+
+The problem was not difficult, but I couldn't answer well because I think that I didn't prepare well.  
+The score hasn't come out yet, but it's probably similar to last time.  
+
+There were three main themes: music, anniversaries, and home.  
+
+I was questioned about music, what's your favorite music?  
+ans What's the difference between the music you listen to when you were young and now?  
+
+What was the issue regarding housing was in the news in your area?  
+Please explain what are famous anniversaries in Korea and whether there are memorable  
+anniversaries and special episodes.  
+
+Please explain the changes in the technology of the house.  
