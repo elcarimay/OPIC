@@ -92,6 +92,7 @@ And What I'm in trouble about issue, I think someone has already thought about i
 So, I usually googling the solution. and I try to make it mine.
 And I prefer to see pictures about issue. Sometimes, it give an inspiration than writing or articles.  
 
+
 8/22  
 My acquaintance's family came to play on saturday. So we went out to play because the  
 children's infinite physical strength was not enough to stay at home. we went to a rural theme  
