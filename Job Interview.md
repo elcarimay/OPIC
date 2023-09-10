@@ -8,7 +8,7 @@ And However, when having a meeting, the leader must give up authority so that pe
 → In fact, I don't have any special problems. However, as I get older, the time to maintain concentration seems to have decreased due to decreased physical strength.  
 ## 71. What was the biggest professional risk you have taken and what was the outcome?  
 → Due to the nature of the work of sitting in front of the computer for a long time, bad posture can lead to poor health. So, I play table tennis with my colleagues every lunchtime. And I try to work in the right posture whenever I have time.  
-## 72. How do you ensoure all of your work gets accomplished in a productive manner?  
+## 72. How do you ensure all of your work gets accomplished in a productive manner?  
 → Of course, meetings should be reduced and the time to write reports should be reduced. In addition, the computer program execution time should be reduced by changing the computer to the latest one.  
 ## 73. How have you changed in the last five years?  
 → In the past, I had to leave work quickly and do housework because of childcare, but now I have no problem even if my child grows up and leaves work late. I get allowance from my wife every month, but I get extra money for overtime work. So I'm trying to make more money by working overtime.  
