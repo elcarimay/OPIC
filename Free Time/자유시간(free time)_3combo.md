@@ -11,9 +11,9 @@ Many people have hobbies such as playing a musical instument, painting or cookin
 # Tell me about the last time you had some free time. When was it? What did you do?
 ```
 I had been busy with work during the week, so I was looking forward to a chance to relax and do something fun.
-On Saturday morning, I slept in a bit and then had a relaxed breakfast at home. Afterward,
+Last Saturday morning, I slept a little bit and then had a relaxed breakfast at home. Afterward,
 I decided to go for a walk in a nearby park to enjoy the fresh air and exercise. While I was there,
-I met up with a neighborhood who was also out for a walk, and I chatted for a while before continuing on my ways.
+I met up with a neighbor who was also out for a walk, and I chatted for a while before continuing on my ways.
 In the afternoon, I went to a movie theater to see a new release that I had been looking forward to. After the movie,
 I stopped at a café to grab a coffee and talk with my family.
 In the evening, I went to a restaurant with my family for a nice dinner.
