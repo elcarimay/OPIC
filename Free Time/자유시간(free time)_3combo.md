@@ -25,7 +25,7 @@ When I was a child, I might have spent time playing soccer in a school ground wi
 enjoyed playing video games or watching television.
 Some friend might have taken up hobbies like playing a musical instrument, drawing or painting, or practicing a martial art.
 They might have attended lessons or classes to improve their skills in these areas.
-I also often spend time with my families, going on a trip or participating in family activities. For example, I might have
+I also spend time with my family, going on a trip or participating in various activities often. For example, I might have
 gone on a picnic, visited a museum or cultural site, or watched a movie together.
-Overall, while I do face academic pressure, I also have plenty of opportunities for fun and creative activities in my free time.
+Overall, while I'm facing academic pressure, I also have plenty of opportunities for fun and creative activities in my free time.
 ```
