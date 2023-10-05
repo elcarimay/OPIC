@@ -1,19 +1,39 @@
 ## I am going to give you a situation and ask you to act it out. You have just moved to a new place. Call the front desk and ask three to four questions about the recycling system in the area.
 ```
-Can you tell me where the recycling bins in the room?
-Are there separate wastebaskets for paper, plastic, glass, and metal?
-When the recycling is picked up?
-What kind of materials can be recycled here?
+Hello, this is [Tony] from Room [Your Room Number]. I recently moved in and I have a few questions
+about the recycling system in the area:
+
+Can you tell me where the recycling bins are located within the building?
+Are there separate wastebaskets for paper, plastic, glass, and metal, or should I sort them before
+disposing of recyclables?
+When is the recycling picked up?
+What kind of materials can be recycled here, specifically?
 How often are the recycling bins emptied?
 Is there anything else I should be aware of when it comes to recycling in this area?
 ```
 ## I'm sorry, but there is a problem I need you to resolve. you just moved in and don't know about the recycling system of the neighborhood. After having a party with your friend, you didn't sort out the recycling and threw away the trash. One of your neighbors is complaining about it. Can you offer two or three ways to resolve the situation?
 ```
-I didn't know about the recycling system in the neighborhood but I understand that it's important to follow the rules.
-I sort out the recycling as soon as possible. And after, I can also clean up any other mess that was left from the party.
-I find out the information about the recycling system in the neighborhood and understand how it works. 
-And then, I ask my neighbors for advice on how to sort and dispose of recycling properly. 
-Once I have a better understanding of the system.
+I apologize for the oversight, and I appreciate your concern. To resolve the situation, I can take
+the following steps:
+
+Apologize and Acknowledge Mistake: I would sincerely apologize to the neighbor and acknowledge
+that I made a mistake by not sorting the recycling properly after the party.
+
+Rectify the Situation: I would immediately sort out the recycling and ensure it is properly disposed
+of according to the neighborhood recycling guidelines. If necessary, I might seek assistance from
+friends or neighbors to make sure everything is sorted correctly.
+
+Prevent Future Incidents: To prevent similar situations in the future, I would educate myself and my
+friends about the local recycling rules. I might create clearly labeled bins for different types of
+recyclables to make it easier for everyone to dispose of items correctly.
+
+Communicate and Assure: I would approach the neighbor, explain the steps I've taken to rectify the
+mistake, and assure them that I am now well-informed about the recycling system in the
+neighborhood. Additionally, I would express my commitment to being more responsible in the
+future.
+
+By taking these actions, I aim to resolve the issue and demonstrate my willingness to be a
+responsible member of the community.
 ```
 ## That's the end of the situation. Have you ever had a problem related to recycling? How was the problem resolved? 
 ```
