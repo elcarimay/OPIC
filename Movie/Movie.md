@@ -32,7 +32,7 @@ Overall, these are all about my favorite movie genre.
 ## Q2) Tell me about the movie theater you went recently. What did you do before and after the movie?
 ```
 I remember going to the movie theater nearby my place. Yeah, actually movie theater is only 15 minutes by car.  
-Recently, I watched Korean movie called "Transformer". It is a movie about a war between robots. In particular, it is
+Recently, I watched the movie called "Transformer". It is a movie about a war between robots. In particular, it is
 impressive to see cars and animals commonly seen around them transform into robots.  
 Anyway, what do I do before movie? Well.. I usually check movie schedule and get tickets.. I usually buy pop cones and some
 drinks for my son before movie starts. After the movie, I like to walk around the shopping mall and browse things. The theater
