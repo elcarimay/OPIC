@@ -3,12 +3,12 @@
 When I was dating with my wife, I went to see a performance at Yonsei University's open-air theater in Seoul. It was my first
 time going to see an outdoor performance, so I was looking forward to it. Also, it was a very special experience to watch the
 performance of one of my favorite singers, Kim Hyun-woo. I sat next to my wife on an autumn night. It was so imperssive to hear
-a touching ballad. That's all about the memorable performance I've experienced.
+a touching korea pop songs. That's all about the memorable performance I've experienced.
 ```
 ## 2) Now, let's talk about the activites you enjoy doing at the concert hall. Tell me all of your activities you usually do at the concert hall from the beginning to the end.
 ```
 When I arrive at the concert hall, I usually show my admission tickets to get in and check my seat numbers on the seating map.  
-Then I take some pictures to post on Instagram so my friends know what I'm doing. I'm not sure if I told you that, but I usually  
+Then I take some pictures to post on instagram so my friends know what I'm doing. I'm not sure if I told you that, but I usually  
 go to the concert at least once or twice a year. Anyway, once I get to the concert hall, I usually grab a brochure and check out  
 some information of the concert such as performer and the bands. During the concert, I usually turn off my phone so I can feel its  
 atmosphere and really into the show. After the show, I usually head to home but also like to go to coffee shop near the concert place.
@@ -30,7 +30,7 @@ solutions.__
 Hey, buddy .. It's me .. I'm afraid to say this about the concert we are supposed to go together was canceled due to severe weather.  
 I believe I had to check weather forecast before I suggested this concert .. but anyway .. I want to apologize for this .. and I  
 would like to offer you some alternatives .. Backup plans .. I have two options for you and you can choose whatever you like.
-First, why don't we look for another singer's performane?  
+First, why don't we look for another singer's performance?  
 Second, How about going camping instead of the concert?  
 Once again, I'm really sorry about this. And please consider my options for you and please let me know asap. Please get back to me
 as soon as possible.
