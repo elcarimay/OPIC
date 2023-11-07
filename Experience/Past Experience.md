@@ -1,9 +1,13 @@
 ## Have you ever canceled plans because of something unexpected?
 ```
 In general, Campers are sensitive to the weather, so they wake up, turn on the weather app in their cellphone, and
-check the today's weather.
-About one year ago,I was going to go camping early in the morning, but I couldn't go because of the bad weather.
-Finally I ate breakfast at home in the morining with my family.
+check the today's weather. A year ago, I planned to go camping because I checked the weather a week ago and said
+it wouldn't rain on weekends. It was raining little by little when I finished preparing early in the morning
+on the day of departure and tried to go out. Still, I thought it would be okay to arrive at the camping site,
+so I went to the front of the camping site, which is two hours away. The problem was that it was continuing to
+rain at all and eventually returned home. It was a pity that I couldn't camp, but it was comforting to think
+that I didn't have to dry the tent in the rain. And next time, I vowed not to go if it rains a little on
+the morning of the day.
 ```
 ## Have you ever bought tickets, but couldn't make it because something unexpected happened?
 ```
