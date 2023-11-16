@@ -1,5 +1,6 @@
 ## Opic 관련 Sites
-https://www.languagetesting.com/pub/media/wysiwyg/manuals/opic-examinee-handbook.pdf
+https://www.languagetesting.com/pub/media/wysiwyg/manuals/opic-examinee-handbook.pdf  
+https://opicmanager.tistory.com/category/%EC%98%A4%ED%94%BD%20%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/%EC%98%A4%ED%94%BD%20%EC%BD%A4%EB%B3%B4%EC%9E%90%EB%A3%8C  
 
 ## TED 강연
 https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
