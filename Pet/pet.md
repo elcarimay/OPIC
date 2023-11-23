@@ -1,5 +1,4 @@
-## 1. You indicated in your survey you have a pet. I would like to know why you have a pet. Are there any benefits?
-Please tell me about it in detail.
+## 1. You indicated in your survey you have a pet. I would like to know why you have a pet. Are there any benefits? Please tell me about it in detail.
 ```
 Before I have my own pet I did not know what it means to have a pet. I thought it would be easy to have a
 pet just like things I have in my room. However, it is totally different from what I expected. Having a pet takes
@@ -24,8 +23,7 @@ One day, my wife sent me a very cute picture on Kakaotalk, but I didn't know wha
  year, he sent it to another house.
 ```
 
-## 3. Have you ever lost your pet? Has it ever been so sick? Tell me about an unforgettable with your pet from the
-beginning to the end.
+## 3. Have you ever lost your pet? Has it ever been so sick? Tell me about an unforgettable with your pet from the beginning to the end.
 ```
 Fortunately I have never lost my pet but my pet has ever been sick. When it turned 12 years old, I noticed
 some differences in my pet. It was consistently drained and suddenly lost its fur a lot. Some told me it could
