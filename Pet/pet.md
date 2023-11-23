@@ -25,13 +25,9 @@ One day, my wife sent me a very cute picture on Kakaotalk, but I didn't know wha
 
 ## 3. Have you ever lost your pet? Has it ever been so sick? Tell me about an unforgettable with your pet from the beginning to the end.
 ```
-Fortunately I have never lost my pet but my pet has ever been sick. When it turned 12 years old, I noticed
-some differences in my pet. It was consistently drained and suddenly lost its fur a lot. Some told me it could
-happen with an old dog but I knew it was not a usual change happening between seasons. I visited the vet
-immediately hoping my concern would have been wrong. He examined my pet and ran through some detailed
-tests. After a couple of days, the vet notified me that my pet had a cancer in its womb. I was shocked but the
-vet told me it was the early stage of cancer. We quickly schedule the surgery. My pet had to be hospitalized
-more than a week. Thankfully the surgery was very successful and my pet was recovered soon. What if I had
-neglected some differences on my pet, what if I had visited the vet little late; I was really gratified with my
-decision not to ignore the differences and to go to the vet instantly.
+There have been times when Geko was sold and disappeared, but I have never lost it. In fact, I heard yesterday that the
+gecko who sent to an acquaintance for free went to heaven. I sent it last winter, I was heartbroken because she died without living for a year, but the situation can't be changed and must be accepted. Recently, there was an gecko that looked a little strange eye to me. I went to a nearby hospital because it remained the same even after a few days. The veterinarian, who can treat special animals, examined it. And he
+said that the bloodline in his eyes got a little bigger, so its eyes looked a little strange. I was relieved about that news.
+And the doctor said that Cre is a healthy animal and rarely comes to the hospital. Anyway, I'm glad there were no sick
+individuals in my house.
 ```
