@@ -1,4 +1,5 @@
-## 1. You said in the survey that you enjoy texting your friends. Tell me who you usually send a text message.\\ How often do you send them and when do you usually send them? Why do you usually text them? Describe your typical routine of sending text messages as much detail as possible.
+## 1. You said in the survey that you enjoy texting your friends. Tell me who you usually send a text message.\n 
+How often do you send them and when do you usually send them? Why do you usually text them? Describe your typical routine of sending text messages as much detail as possible.
 ```
 I must say that texting has been a part of my life. I frequently send text messages to my wife. Usually
 to my wife who feel, just like me, sending a text message is as comfortable as making a call. I sometime text
