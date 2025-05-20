@@ -1,13 +1,8 @@
 # I'd like to know about one of the issues parks are facing. what are some problems? What can we do to resolve the issue?
 ```
-One of the issues that parks are facing is the problem of littering. Unfortunately, many people visit parks
-and leave behind trash, which not only ruins the aesthetic appeal of the park, but also poses a threat to
-the environment and wildlife in the area. Littering can also attract pests, such as rats and raccoons,
-which can be dangerous to park visitors.
+One problem that many parks have these days is littering. Some people go to the park and leave trash behind. This makes the park look dirty and can also be bad for the environment and animals living there. Litter can even attract animals like rats or raccoons, which might be dangerous for people visiting the park.
 
-To resolve this issue, it is important to encourage park visitors to take responsibility for their trash
-and dispose of it properly. This can be done through education and awareness campaigns, such as signs
-that remind visitors to properly dispose of their trash. Additionally, park staff can increase the
-frequency of trash pick-up and recycling containers more easily accessible to visitors.
-By working together to address this issue, we can help keep our parks clean and beautiful for visitors.
+To fix this problem, I think it's important to help people understand why they should throw their trash away properly. For example, parks can put up signs to remind people not to litter. Also, park workers can collect trash more often and make sure there are enough trash cans and recycling bins in easy-to-see places.
+
+If we all try to keep parks clean, they will stay nice and safe for everyone to enjoy.
 ```
