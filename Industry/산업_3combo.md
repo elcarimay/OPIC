@@ -1,39 +1,46 @@
 # Tell me about the companies that young people in Korea want to work for. Why do they want to work there?
 ```
-Many young people in Korea desire to work for well-established companies, often referred to as "big companies".
-Some of the most popular companies are Samsung, LG, Hyundai, and SK Group.
-There are several reasons why young people in Korea want to work for these companies.
-One is the perception(지각) that these companies offer stability and job security(직업보장), which is particularly important
-given the competitive job market in Korea. In addition, these companies often offer high salaries and generous
-benefits packages, which can be very attractive to young job seekers.
-Another reason why these companies are popular is that they are seen as offering opportunities for career
-advancement and professional development. Many young Koreans view working for a large company as a way to
-gain valuable experience and build their resume, which can help them in their future careers.
-Finally, some young people in Korea are attracted by these companies because of their strong brand recognition and
-reputation. Companies like Samsung and Hyundai are not only household names in Korea but are also recognized
-globally, which can be appealing to young job seekers who want to work for a respected and successful company.
+Many young people in Korea want to work for well-established companies, often referred to as "big companies."
+Some of the most popular ones include Samsung, LG, Hyundai, and SK Group.
+
+There are several reasons why these companies are so attractive to young job seekers.
+First, there is a strong perception that these companies offer stability and job security, which is especially important in Korea’s highly competitive job market.
+
+In addition, these companies usually offer high salaries and generous benefits, which make them even more appealing.
+Young people are also drawn to the opportunities for career advancement and professional development that these companies provide.
+Many see working at a large company as a great way to gain valuable experience and build a strong resume, which can help them in the future.
+
+Lastly, big companies like Samsung and Hyundai are well-known brands, not only in Korea but also around the world.
+Working for a company with strong brand recognition and global reputation is attractive to many young people who want to be part of a successful and respected organization.
 ```
 # Talk about one of the rising industries or companies in Korea. Why is it famous? What is special about that company or industry?
 ```
-One of the rising industries in Korea is the video game industry, which has been growing steadily in recently.
-One of the most successful companies in this industry is Nexon, a South Korean gaming company that was founded in 1994.
-Nexon is known for creating popular online games such as MapleStory and KartRider, which have gained a large following both
-in Korea and internationally. One of the reasons why Nexon has been so successful is because they were early adopters of the
-free-to-play business model, which allows players to download and play the games for free, but charges for in-game items or features.
-Overall, Nexon is a company that has gained a reputation for its innovative business model, successful video games. As the video game
-industry continues to grow in Korea and around the world, Nexon is well-positioned to remain a major player in the market.
+One of the rising industries in Korea is the video game industry, which has been growing steadily in recent years.
+One of the most successful companies in this field is Nexon, a South Korean gaming company founded in 1994.
+
+Nexon is well known for creating popular online games such as MapleStory and KartRider, which have gained a large following both in Korea and internationally.
+One of the key reasons for Nexon's success is that they were early adopters of the free-to-play business model.
+This model allows players to download and play the games for free, but charges them for in-game items or extra features.
+
+Overall, Nexon has built a strong reputation for its innovative business strategies and successful game titles.
+As the video game industry continues to grow both in Korea and around the world, Nexon is well-positioned to remain a major player in the global market.
 ```
 # Talk about some difficulties or challenges of the industry you mentioned before. What are some difficuties?
 ```
-While the video game industry in Korea has been growing rapidly, there are also some challenges in this industry face.
-One of the main difficulties is the great competition in the market. There are many game companies in Korea, and new ones are
-constantly emerging(최근 생겨난), which makes it harder for companies to stand out and succeed.
-Another challenge is the changing preferences of gamers. As technology advances and new gaming platforms emerge, gamers' preferences
-can shift quickly, making it difficult for game companies to keep up and create games that will remain popular for a long time.
-In addition, there is increasing concern(우려) about video game addiction(게임중독) and its negative effects on young people, which
-has led to calls for strict regulations on the industry.
-Finally, as the industry becomes more globalized, game companies in Korea must compete with international companies, which can be
-challenging due to language barriers, cultural differences, and other factors.
+While the video game industry in Korea has been growing rapidly, there are also several challenges that the industry faces.
+
+One major difficulty is the intense competition in the market.
+There are many game companies in Korea, and new ones are constantly emerging, which makes it harder for individual companies to stand out and succeed.
+
+Another challenge is the changing preferences of gamers.
+As technology continues to advance and new gaming platforms are introduced, gamers’ tastes can shift quickly.
+This makes it difficult for companies to keep up and develop games that remain popular over time.
+
+In addition, there is growing concern about video game addiction, especially among young people.
+This issue has led to calls for stricter regulations on the gaming industry to address its possible negative effects.
+
+Lastly, as the industry becomes more globalized, Korean game companies must also compete with international developers.
+This can be challenging due to language barriers, cultural differences, and other global market factors.
 ```
 유형 1. 우리나라 유망 산업 묘사  
 유형 2. 산업 중 전도 유망한 기업과 그 이유  
@@ -73,14 +80,18 @@ Enjoying great popularity 큰 인기를 누리고 있다
 __Talk about one of the rising industries or companies in your country. Why is that industry or company famous, and 
 what is special about it? Do you personally want in that industry or company?__  
 ```
-Well, I think electronic products has been steadily growing. I think it's a guite surprise since it's been only 20 years.  
-Yeah, let me tell about one of the most popular brand "Samsung Smart Phone".  
-As I know, samsung invested a lot in R&D. So, they have been producing one of the best smart phone worldwide.  
-As a result, samsung phones have highly developed technologies. And Samsung phones have became popular internationally.  
-In the past, cell phones were used only to call and text.  
-Nowadays, people can do all kind of things like internet surfing, online banking, shopping and many other things.  
-New products are lighter and smaller than before. So, I think it's easy to carry.  
-Yeah I think smart phone industry will never stop growing.
+Well, I think the electronic product industry has been steadily growing, and it's quite surprising how much it has changed in just the past 20 years.
+
+Let me talk about one of the most popular brands — Samsung smartphones.
+As far as I know, Samsung has invested a lot in research and development, which is why they’ve been able to produce some of the best smartphones in the world.
+As a result, Samsung phones are known for their highly advanced technology and have become popular internationally.
+
+In the past, cell phones were only used for calling and texting.
+But now, people can do all kinds of things — like surfing the internet, online banking, shopping, and so much more.
+New smartphones are also lighter and smaller, so they’re easy to carry around.
+
+Honestly, I don’t think the smartphone industry will ever stop growing.
+Technology keeps advancing, and I’m excited to see what comes next.
 ```
 ## Q2)
 __Now, talk about a promsing company in that industry you mentioned above. What kind of benefits does it bring about?__  
@@ -94,11 +105,16 @@ __What kinds of efforts have you made so far for your career? Tell me about any 
 ## Q6)
 __What do people do to prepare for a job? Do they go to school?__  
 ```
-What do I for my career? well... people do many different things like exercising, taking online classes and learn english  
-In my case, I study english very hard. Because it's necessary for my work. Actually, I have to work on my language skills.  
-Because my clients are in overseas, so engligh is very important for my job. Also, I can get promoted with a great english test score.  
-So far, I have been taking in-house training at work. It's not easy but I think it's worth it.  
-And these are what I do in my career.  
+What do I do for my career? Well, people do many different things — like exercising, taking online classes, or studying English.
+
+In my case, I’ve been studying English very hard because it’s essential for my work.
+Since many of my clients are overseas, English is a key part of my job.
+Also, if I get a high score on an English test, it can help me get promoted at work.
+
+So far, I’ve been taking in-house training provided by my company.
+It’s not easy, but I really think it’s worth it.
+
+So yeah, these are the things I’ve been doing to improve my career.  
 ```
 ## Technology Key Word  
 You can think of 흔히 생각하는  
