@@ -1,36 +1,59 @@
 ## 1. What are your responsibilities in the home? How do you handle those tasks?
 ```
-I do have some responsibilities in the home. I usually do small house chores. 
-First of all, the dishes are almost in charge of separate collection. When I go home after work, I eat the 
-food that I took out first and start with the dishes. After that, I check my son's homework and help him.
-I do separate the waste on weekends. Paper has to be thrown away only on Tuesdays and Thursdays, so the rest
-of the plastic, cans, styrofoam, and vinyl are separated, and then used as an elevator to go to the recycling
-area on the first floor and throw them away. Fortunately, I used to throw away food, but after buying a food
-processor, I became very comfortable. Sometimes you just have to throw the debris in the trash can.
-I think the best thing I've done this year is to buy a food processor. Sometimes I have to take things out of
-heights, put screws on them, or move heavy things. And even though it's my hobby, I take full care of a small
-pet called Crested Gekko. and my son helps me sometimes.
+Yes, I do have some responsibilities at home, and I usually take care of small household chores.
+
+First of all, I’m mostly in charge of washing the dishes and sorting the recycling.
+When I get home from work, I usually eat the food I took out earlier, and then I start with the dishes.
+After that, I check my son’s homework and help him if he needs it.
+
+On weekends, I separate and take out the recycling.
+In our neighborhood, paper can only be thrown away on Tuesdays and Thursdays, so on other days, I separate plastic, cans, styrofoam, and vinyl.
+Then, I use the elevator to take everything down to the recycling area on the first floor.
+
+I used to throw away food waste myself, but after we bought a food processor, things got much easier.
+Now, I just need to throw away the dried debris in the trash can.
+Honestly, buying that food processor was one of the best decisions I made this year!
+
+Sometimes I also help with small household tasks like reaching things on high shelves, tightening screws, or moving heavy items.
+
+And even though it’s more of a hobby, I take full care of our small pet — a Crested Gecko.
+My son helps me out sometimes, and it’s something we enjoy doing together.
 ```
 ## 2. What are your family members' responsibilities? Tell me about the types of things they are asked to do.
 ```
-My wife does most of house chores. She prepares all meals for us. Doing laundry is also her job.
-She knows how to deal with different fabrics and colors. Of course, we fold the laundry and organize it together.
-Cleaning the house is mostly her job because I used to go out with my son for doing exersize. 
-When it comes to bathrooms, she cleans it entirely. This is because she cleans the bathroom together when she
-takes a shower. My son is responsible for putting food in the refrigerator after meals. Even though I was told
-to put them in separately, he had a hard time putting them all in at once. Now I think of responsibilities my 
-family members share, I have realized that my wifer does a lot of things at home. I should help her more.
+My wife does most of the household chores.
+She prepares all the meals for our family, and doing the laundry is also her responsibility.
+She knows how to handle different fabrics and colors carefully.
+Of course, we fold the laundry and organize it together afterward.
+
+Cleaning the house is also mostly her job, especially because I usually go out with my son to exercise.
+When it comes to the bathroom, she takes care of it completely.
+She usually cleans the bathroom while she’s taking a shower, so it becomes part of her routine.
+
+My son is responsible for putting food into the refrigerator after meals.
+At first, he struggled with organizing things properly, especially when I told him to separate the items,
+but now he’s getting better at it.
+
+Now that I think about the responsibilities each family member has, I realize that my wife handles a lot at home.
+I should definitely try to help her more.
 ```
 ## 3. Have you ever changed the interior of the house? If so, when is it? Please tell me in detail.
 ```
-In fact, I usually choose a place to put things in the house carefully and put them in a designated place, so 
-they are always organized and less cleaned. The problem is that my wife loves to change the interior. She wants
-to change the interior once every three months. I sometimes move to my own will regardless of help. So there are
-times when I'm surprised. Anyway, a year ago, my wife asked me to put a bookcase in the living room and move the
-TV to the main room for my son's education. Of course, I said no, but my wife's opinion, the leader of my house,
-was absolute, so the TV went to the main room and the bookshelf was in the living room. The problem was that a few
-months later, not all of my family lived in the living room, but in the main room to watch TV. Rather, I thought 
-it was inefficient to live in a narrow room. So eventuallym, after buying a bigger TV three months ago and moved
-it back to the living room with the sofa, and we still satisfied with the interior. In general, I thought there
-was a reason for putting TV and sofas in the living room.
+Actually, I usually choose a place for things in the house carefully and keep everything in its designated spot,
+so the house stays fairly organized and requires less cleaning.
+
+But the problem is, my wife loves changing the interior design.
+She wants to rearrange things every three months or so.
+Sometimes she even moves things on her own without asking for help, so I get surprised when I come home and see everything in a different place!
+
+About a year ago, my wife asked me to put a bookcase in the living room and move the TV to the master bedroom for our son’s education.
+Of course, I said no at first, but since my wife is the real leader of the house, her decision was final.
+So the TV was moved into the main room, and the bookshelf went into the living room.
+
+The funny part is, a few months later, we all ended up spending time in the small bedroom to watch TV together.
+I started to think it was actually less efficient to have the whole family squeezed into one narrow space.
+
+Eventually, about three months ago, we bought a larger TV and moved it back to the living room, along with the sofa.
+Since then, we’ve been much more satisfied with the layout.
+In the end, I realized there’s a good reason why TVs and sofas are usually placed in the living room!
 ```
