@@ -1,4 +1,5 @@
 ```cpp
+스트레스가 풀렸을 때의 장점과 단점
 There are both advantages and disadvantages when stress is relieved.
 
 The main advantage is that I feel much better and more relaxed.
