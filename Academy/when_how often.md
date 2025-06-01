@@ -13,6 +13,7 @@ Which basically means I have no time to do anything, so I can't help but read bo
 *go swimming / jogging / shopping / running
 *enjoy driving
 ```
+
 ```
 2) No set time - 정해진 시간x
 *tend to 동사: ~하는 편이야
