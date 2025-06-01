@@ -20,7 +20,17 @@ Well, you know, I usually play the basketball with by son. Cuz he is the person 
 you know.. I try to spend time with him. But it seems like he isn't interested in me, but also he didn't like me which is a
 little sad. But you know...when we play the basket ball together, I think he loves it and also I love that time very much.
 *spend most of time
-*in fact = actually = as a matter of fact  
+*in fact = actually = as a matter of fact
+#####응용연습  
+- Who do you usually watch movies with?
+- Do you listen to music alone?
+- Do you sometimes eat a meal alone?
+- Who do you like drinking with?
+- Who do you normally go to the beach with?
+- Who do you like going to the park with?
+- You responded that you like to enjoy home vacation. Who do you spend it with?
+- Who do you spend your weekend with?
+
 ```
 ```
 3) With my family
