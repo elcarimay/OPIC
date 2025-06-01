@@ -23,14 +23,14 @@ little sad. But you know...when we play the basket ball together, I think he lov
 *in fact = actually = as a matter of fact
 ```
 ##### 응용연습  
-- Who do you usually watch movies with?
-- Do you listen to music alone?
-- Do you sometimes eat a meal alone?
-- Who do you like drinking with?
-- Who do you normally go to the beach with?
-- Who do you like going to the park with?
-- You responded that you like to enjoy home vacation. Who do you spend it with?
-- Who do you spend your weekend with?
+- Who do you usually watch **movies** with?
+- Do you listen to **music** alone?
+- Do you sometimes **eat a meal** alone?
+- Who do you like **drinking** with?
+- Who do you normally go to the **beach** with?
+- Who do you like going to the **park** with?
+- You responded that you like to enjoy **home vacation**. Who do you spend it with?
+- Who do you spend your **weekend** with?
 ```
 3) With my family
 나는 보통 00 가족/베프들과 해 – 왜냐면 요즘 사람들이 다들 핸드폰이 있어서 핸드폰만 보잖아 although다같이 있는 시간에도
