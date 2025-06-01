@@ -21,6 +21,7 @@ you know.. I try to spend time with him. But it seems like he isn't interested i
 little sad. But you know...when we play the basket ball together, I think he loves it and also I love that time very much.
 *spend most of time
 *in fact = actually = as a matter of fact
+```
 #####응용연습  
 - Who do you usually watch movies with?
 - Do you listen to music alone?
@@ -30,8 +31,6 @@ little sad. But you know...when we play the basket ball together, I think he lov
 - Who do you like going to the park with?
 - You responded that you like to enjoy home vacation. Who do you spend it with?
 - Who do you spend your weekend with?
-
-```
 ```
 3) With my family
 나는 보통 00 가족/베프들과 해 – 왜냐면 요즘 사람들이 다들 핸드폰이 있어서 핸드폰만 보잖아 although다같이 있는 시간에도
