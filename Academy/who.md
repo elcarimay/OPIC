@@ -26,10 +26,8 @@ little sad. But you know...when we play the basket ball together, I think he lov
 in the same place – 근데However,  when I 00 with 가족들/친구들이랑, 핸드폰 없이 서로 이야기를 나눌 수 있어서 which is really 좋아  
 – and it’s literally 스마트폰 디톡스 – 그래서 나는(try to)  가족/베프들과 00 하려고 해 without smartphone
 
-Well...I usually enjoy movie with my family. Because you know... nowadays everyone has
-smartphone. So, they only focus on their smartphones although they are together
-in the same place. However, when I go to the movie theater with my family,
-we can talk each other without smartphone which is really really good.
-And it's literally smartphone detox.
-So, I try to watch movies with my family without smartphone.
+Well...I usually enjoy movie with my family. Because you know... nowadays everyone has smartphone.
+So, they only focus on their smartphones although they are together in the same place.
+However, when I go to the movie theater with my family, we can talk each other without smartphone which is really really good.  
+And it's literally smartphone detox. So, I try to watch movies with my family without smartphone.
 ```
