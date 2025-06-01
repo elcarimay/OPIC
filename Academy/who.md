@@ -41,4 +41,6 @@ Well...I usually enjoy movie with my family. Because you know... nowadays everyo
 So, they only focus on their smartphones although they are together in the same place.
 However, when I go to the movie theater with my family, we can talk each other without smartphone which is really really good.  
 And it's literally smartphone detox. So, I try to watch movies with my family without smartphone.
+*go swimming / jogging / shopping / running
+*enjoy driving  
 ```
