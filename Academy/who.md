@@ -22,7 +22,7 @@ little sad. But you know...when we play the basket ball together, I think he lov
 *spend most of time
 *in fact = actually = as a matter of fact
 ```
-#####응용연습  
+##### 응용연습  
 - Who do you usually watch movies with?
 - Do you listen to music alone?
 - Do you sometimes eat a meal alone?
