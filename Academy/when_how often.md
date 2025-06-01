@@ -8,6 +8,6 @@ help but 주말에 00 할 수 밖에 없지
 Well...I tend to read books when I have free time which is mainly on the weekends.  
 Because, of course I have to work on weekdays.  
 What I'm saying is ... you know by the time I come home after work, it's about eight pm.  
-Then I'm really hungry, so I eat some fluits and do the dishes and so on.  
+Then I'm really hungry, so I eat some fruits and do the dishes and so on.  
 Which basically means I have no time to do anything, so I can't help but read books on the weekends.  
 ```
