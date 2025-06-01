@@ -16,6 +16,16 @@ Which basically means I have no time to do anything, so I can't help but read bo
 
 ```
 2) No set time - 정해진 시간x
+음 사실 딱히 정해진 시간은 없어 00 을 위해서는 – 무슨 말이냐면 I don’t do that 정기적으로 하지 않아 –
+ 왜냐면 너무 어렵거든 to make the 시간 – 나도 일하고 와이프도 일하고 and 우리 아들 is busy going to
+ 학교랑 학원es – which means, our스케줄이are 다 달라 –같이 It’s hard to 00 하기가 사실은 어려워
+ – that’s why we그래서 할 수 있을 때 해
+ 
+Well...actually there is no set time for shopping, what I'm saying is...
+I don't do that on the regular basis, because it's really difficult to make the time.
+I work, my wife works and my son is busy going to school and academies.
+Which means our schedule are all different. It's really really hard to go shopping together.
+That's why we go shopping when we can. 
 *tend to 동사: ~하는 편이야
 *by the time: ~할 때 쯤
 *can't help but 동사: ~할 수 밖에 없어  
