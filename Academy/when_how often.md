@@ -9,5 +9,8 @@ Well...I tend to read books when I have free time which is mainly on the weekend
 Because, of course I have to work on weekdays.  
 What I'm saying is ... you know by the time I come home after work, it's about eight pm.  
 Then I'm really hungry, so I eat some fruits and do the dishes and so on.  
-Which basically means I have no time to do anything, so I can't help but read books on the weekends.  
+Which basically means I have no time to do anything, so I can't help but read books on the weekends.
+*tend to 동사: ~하는 편이야
+*by the time: ~할 때 쯤
+*can't help but 동사: ~할 수 밖에 없어  
 ```
