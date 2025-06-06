@@ -17,7 +17,7 @@ Because I like talking. I think I'm a too much talker. As I told you, sometimes 
 is a little sad – 그래도 when 같이 00 하면 아들도 좋아하고 loves it and also I love 그 시간이 좋아 very much   
 
 Well, you know, I usually play the basketball with by son. Cuz he is the person who I spend most of time with. well..Actually
-you know.. I try to spend time with him. But it seems like he isn't interested in me, but also he didn't like me which is a
+you know.. I try to spend time with him. But it seems like he isn't interested in me, but also he doesn't like me which is a
 little sad. But you know...when we play the basket ball together, I think he loves it and also I love that time very much.
 *spend most of time
 *in fact = actually = as a matter of fact
