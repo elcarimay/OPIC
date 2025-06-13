@@ -35,11 +35,11 @@ good way to cheer up.
 정말 빨리 – which is 좋아 – 다시 말해서 it’s easy to spend시간을 내가
 00 할 때  
 
-I usually read books when I kill time. Because actually I don't relly
-like wasting time. But when I read books, it's not only fun but also it
-helps me to relieve stress and maintain health. And of course time goes
-very fase. Which is good. What I'm saying is, it's easy to spend time
-when I read books.  
+I usually enjoy shopping when I kill time. Because actually I don't really  
+like wasting time. But when I do shopping, it's not only fun but also it  
+helps me to relieve my stress and to maintain my health. And of course  
+time goes really fast. Which is really nice. What I'm saying is, it's  
+easy to spend time when I do shopping.  
 ```
 ```
 1) Near my house/downtown/office/school  
