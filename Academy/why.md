@@ -8,40 +8,65 @@ optimistic / positive - I mean 노력해 생각하려고 긍정적으로 all the
 Well...I usually do exersize when I get stressed out, because I can relieve stress.
 But, actually I'm not the type of person who gets stressed, because I'm very optimistic
 and positive.  
-I mean I try to think positively all the time, but you know...I'm human being.
+I mean I try to think positively all the time, but you know...I'm a human being.
 So, Somtimes I get stressed, in that case, I just do exersize which is really good.  
 ```
 ```cpp
 2) Cheer up
-가끔 기분 다운될 때가 있어 - 그런 기분이 들때 00을 해- 그러면 치얼업 돼 - 또한 긍정적인 영향이
-있어 나에게- 무슨 말이냐면 일을 더 열심히 하고 최선을 다할수 있는 동기가 돼 - 그래서 내 생각에는
-00이 좋은 방법인 것 같아 - 기분 나아질 수 있는  
+가끔 기분 다운 될 때가 있어 – when그런 기분이 들 때 00을 해 – 그러면 치얼업 돼 – and
+또한 it’s a  긍정적인 영향이 있어 나에게 – 무슨 말이냐면 it motivates me일을 더
+열심히 하고 최선을 다할 수 있는 동기가 돼 – which is why 내 생각에는 00이 좋은 방법
+인것 같아 – 기분 나아질 수 있는  
 
-Sometimes, I feel a little down. When I feel like that, I usually do exercise.  
-After exercising, I feel cheered up. It also has a positive effect on me.  
-What I'm saying is, it motivates me to work harder and do my best.  
-So, I think exercise is a good way to improve my mood.  
+Well... you know, sometimes I feel a little down. So, When I feel like that, I   
+just go swimming. Then I cheered up and Also it's a positive effect on me.  
+What I'm saying is, it motivates me to work harder and do my best. Which is why  
+I think swimming is a good way to cheer up.   
 ```
 ```
 3) Kill time
-나는 시간을 보낼때 주로 유투브를 즐겨봐. 다양한 주제에 관한 흥미로운 영상들이 많은데  
-특히 동물과 영어에 관한 유투브를 주로 봐. 가끔 새로운 걸 배우기 위한 용도로도 많이 활용하는데
-배우면서 동시에 즐거움도 느껴.
-다시말해서 유투브를 보는건 내가 시간을 쉽게 보내는데 도움을 많이 줘.
+킬타임할 때 주로 00을 해 – 왜냐면 사실 내가 don’t really like 시간을 낭비하는 걸 별로
+안 좋아하거든? – 근데 00을 할 때는? It’s not only fun 하지만 it helps me to
+(스트레스에/건강을 유지) 그리고 물론 시간이 goes정말 빨리 – which is 좋아 – 다시 말해서
+it’s easy to spend시간을 내가 00 할 때
+
+I usually read books when I kill time. Because actually I don't relly like wasting time.
+But when I read books, it's not only fun but also it helps me to relieve stress and
+maintain health. And of course time goes very fase. Which is good. What I'm saying is,
+it's easy to spend time when I read books.  
 ```
 ```
 1) Near my house/downtown/office/school  
-집근처에는 축구장 트랙이 있을정도로 아주 커다란 공원이 있어. 주말에 주로 가족들과 산책을  
-하려고 공원에 가. 가는길에 소금빵으로 유명한 동네 빵집이 있어서 소금빵을 사고 근처 
-무인 커피숍에서 커피한잔을 사. 그리고 공원중간에 분수대근처 벤치에 앉아서 사들고간 간식을
-먹으면서 사람들이 지나가는걸 지켜봐. 그냥 지켜만 보는데도 뭔가 힐링이 되는게 느껴지고
-일주일간 쌓인 피로가 싹 풀리는거 같아서 좋아.
+음.. 우리집 근처에 00 이 있어 – which is  아주 커 – 그리고 나 같은 경우에는 가는 길에  
+단골 빵집이 있어 that is famous for salted빵 and I’m a regular there – 그래서 거기  
+들러서 소금빵 하고 근처 I get some 커피 from self service 커피숍에서 – 그리고 then  
+벤치가 있어 00 근처에 – so I I just sit거기에, space out , have the 빵이랑 커피  
+that I bought and watch people who pass by me– 그러면 그 자체로 it itself is a  
+나에게는 힐링이야 (그리고 나서 00에 가)
+
+Well...There is a movie theater near my house. Which is a huge. And in my case,
+on the way, there is a bakery, that is famous for salted bread and
+I'm a regular there. So when I visit there, I buy some salted bread and I get some
+coffee from self service coffee shop, and then there is a bench near the movie theater.
+So, I just sit down, space out, have the salted bread and coffee that I bought and
+watch people who pass by me. Then it itself is a healing to me. And then I go to the
+movie theater.
+```
+```
 2) Far from my place  
-주말에는 주로 도서관에 가. 집근처에 도서관들이 많은데 아들이 좋아하는 단골 도서관이 
-있어서 주로 거기로 가. 열람실에 가면 창가쪽 자리들이 보통 명당자리인데 일찍 가야 앉을수 있어.
-주말에 보통 10시정도에 가는데 창가쪽 자리가 없으면 가운데 자리에 앉아.
-아들의 공부습관을 만들고 나의 역량 발전을 위해서 가는데 아들이 계속 잘 따라가줘서 고마워.
-주말을 유익하게 보내는거 같아 기분이 좋고 도서관에 갈때마다 근처에서 어떤걸 먹을지 고민하는게 즐거워.
+사실 집 근처에도 00이 있어 – 근데 (아들이my son’s favorite) 좋아하는 00은 멀리 있어 – which
+takes 한 (20분?)  by car– 그래서 when It’s time for lunch or dinner, we just try to eat
+something 그 근처에서 – 집 까지 가지 않고 – and you know  it’s fun to consider// what
+we’re gonna eat (아들과) 같이 고민하는 것도 즐거워 – anyway 집에서 좀 멀지만 but 좋은 곳이야
+– I mean it’s worth the 시간
+
+Acually...there is a park near my house, but my son's favorite park is far from my house  
+Which takes about 20 minutes by car. So, when it's time for lunch or dinner, we just try to  
+eat something nearby without going home. And you know...it's fun to consider what we're  
+gonna eat with by son. Anyway, it's a little far from my house but it's a good place I mean  
+it's worth the time.   
+```
+```
 3) At home  
 일을 마치고 집에 왔을때 보통 회사에서 take out해온 음식을 먹고 설겆이를 시작해
 그후 아들이 원하면 숙제를 봐줘.
