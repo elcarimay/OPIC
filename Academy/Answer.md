@@ -19,7 +19,8 @@ Why do you like vacations at home?
 휴가 때? 어...그때 그때 다른데, 때로는 나 휴가동안에 (장소)가서 (주제)하는거  
 좋아해 + 육하원칙 why & when  
 
-It depends, but sometimes during my vacation, I like to go to the library and study.
+It depends, but sometimes during my vacation, I like to go to the library and
+study.
 
 I’d like to know about the things you usually do on weekends/free time.
 Could you describe a typical Sunday in detail for me?
@@ -28,18 +29,21 @@ Could you describe a typical Sunday in detail for me?
 Weekend? Well...I usually go to the park near my house,
 
 Can you tell me about your reading habit? 
-Tell me everything about your reading including when, where, and what books you usually read.
+Tell me everything about your reading including when, where, and what books
+you usually read.
 
 독서? 사실 요즘 그게 내 취미중 하나이긴 해 + 육하원칙 why & when
 Reading? Well, it’s actually one of my hobbies these days.
 
 Let’s talk about a healthy person you know. What does he or she look like?
-What are their daily routines like? What do they do or don’t they do to keep their health?
+What are their daily routines like? What do they do or don’t they do to keep
+their health?
 
-건강한 사람? 어.. 글쎄.. 내 생각엔 내가 꽤나 건강한 것 같아, 왜냐하면 알다시피 내가 러닝을 좋아하니까
-+ 육하원칙 when & why
+건강한 사람? 어.. 글쎄.. 내 생각엔 내가 꽤나 건강한 것 같아, 왜냐하면 알다시피 내가 러닝을
+좋아하니까 + 육하원칙 when & why
 
-A healthy person? Well… I guess I’m pretty healthy because, you know, I enjoy running.
+A healthy person? Well… I guess I’m pretty healthy because, you know, I enjoy
+running.
 
 What kinds of things do you usually do in order to maintain your health?
 And tell me about the foods you eat to become healthy. What are they?
@@ -54,9 +58,9 @@ Tell me about the changes in how people maintain their health. Compared to the p
 what has changed in the way people maintain their health? How is it different?
 Tell me in as much detail as you can.
 
-어떻게 바뀌었냐고? 어… 글쎄 생각 안 해보긴했는데.. 근데.. 요즘 사람들이 먹는 걸 많이 신경 써
-+ 육하원칙 why & when how often
+어떻게 바뀌었냐고? 어… 글쎄 생각 안 해보긴했는데.. 근데.. 요즘 사람들이 먹는 걸 많이
+신경 써 + 육하원칙 why & when how often
 
-How has it changed? Hmm… I haven’t really thought about it, but these days, people care
-a lot more about what they eat.
+How has it changed? Hmm… I haven’t really thought about it, but these days, people
+care a lot more about what they eat.
 ```
