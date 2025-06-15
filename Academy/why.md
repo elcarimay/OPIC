@@ -38,7 +38,6 @@ good way to cheer up.
 I usually enjoy shopping when I kill time. Because actually I don't really  
 like wasting time. But when I do shopping, it's not only fun but also it  
 helps me to relieve my stress and to maintain my health. And of course  
-time goes really fast. Which is really nice. What I'm saying is, it's  
-easy to spend time when I do shopping.  
+time goes really fast. Which is really nice. What I'm saying is, doing  
+shopping is a easy way for me to spend time.  
 ```
-
