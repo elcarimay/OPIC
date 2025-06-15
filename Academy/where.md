@@ -29,7 +29,7 @@ Acually...there is a park near my house, but my son's favorite park is
 far from my house Which takes about 20 minutes by car. So, when it's
 time for lunch or dinner, we just try to eat something nearby without
 going home. And you know...it's fun to consider what we're gonna eat
-with by son. Anyway, it's a little far from my house but it's a good
+with my son. Anyway, it's a little far from my house but it's a good
 place I mean it's worth the time.   
 ```
 ```
