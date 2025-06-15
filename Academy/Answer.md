@@ -1,6 +1,6 @@
 ```
-You indicated that you go to the movies.
-Tell me about the kind of movies that you like to go see.
+You indicated that you go to the movies.  
+Tell me about the kind of movies that you like to go see.  
 
 나는 공상과학영화 보는거 좋아해 왜냐하면 재미있거든 그리고 + 육하원칙 when & who
 
@@ -16,7 +16,8 @@ You indicated that you spend your vacation at home.
 What kind of activities do you usually do when you spend time at home?
 Why do you like vacations at home?
 
-휴가 때? 어...그때 그때 다른데, 때로는 나 휴가동안에 (장소)가서 (주제)하는거 좋아해 + 육하원칙 why & when
+휴가 때? 어...그때 그때 다른데, 때로는 나 휴가동안에 (장소)가서 (주제)하는거  
+좋아해 + 육하원칙 why & when  
 
 It depends, but sometimes during my vacation, I like to go to the library and study.
 
