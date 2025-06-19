@@ -34,13 +34,16 @@ place I mean it's worth the time.
 ```
 ```
 3) At home  
-일을 마치고 집에 왔을때 보통 회사에서 take out해온 음식을 먹고 설겆이를 시작해
-그후 아들이 원하면 숙제를 봐줘.
-주말에는 재활용품을 분리하고 밖으로 가져가서 분리수거장에 버리곤 해.
-버릴때는 날짜를 주의해야 하는데 종이를 월/목요일에 버릴수 있어.
+음.. 나는 가끔 집에서 00 을 해 – 왜냐면 그냥just 편하니까 – I don’t need to care
+about others남 눈치 볼 필요 없고 – ,언제든지 끝낼 수 있고 it whenever I want  –
+and on top of that, there are 사람도 있잖아 who are able to도와줄/같이 즐길  –
+근데 사실 I don’t really like staying at home나는 집에 있는 걸 별로 좋아하지 않아
+ – I mean[아민]  나 a homebody아니야 – 그렇지만 there are some times when I just
+want to 가끔은 그냥 집에서 00 하고 싶을 때가 있어
 
-음식물도 버리곤 했는데 음식물처리기를 산후론 일이 매우 쉬워졌어.
-건조된 부스러기로 만들어서 집안 쓰레기통에 버리거든.
-
-그리고 난 취미로 도마뱀을 키우는데 내 아들이 가끔 청소하는 걸 도와주곤 해.
+Well... um...I sometimes read books at home. Because which is comfortable.
+I don't care about others. I can finish whenever I want. And on top of that,
+there're some people who is able to enjoy with me.
+But, to be honest, I don't really like staying at home. I mean I'm not a homebody.
+But, there're some times when I just want to read books at home.  
 ```
