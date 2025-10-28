@@ -7,9 +7,10 @@ help but 주말에 00 할 수 밖에 없지
 
 Well...I tend to read books when I have free time which is mainly on the weekends.  
 Because, of course I have to work on weekdays.  
-What I'm saying is ... you know by the time I come home after work, it's about eight pm.  
-Then I'm really hungry, so I eat some fruits and do the dishes and so on.  
-Which basically means I have no time to do anything, so I can't help but read books on the weekends.
+What I'm saying is ... by the time I come home after work, it's about eight pm.  
+which is the time for me to eat something cuz I get hungry so I eat some fruits and do the dishes after that.  
+yeah... I do stuff like that Which basically means I have no time to do anything, so for that reason, I can't
+help but read books on the weekends.
 *go swimming / jogging / shopping / running
 *enjoy driving
 ```
@@ -21,10 +22,10 @@ Which basically means I have no time to do anything, so I can't help but read bo
  학교랑 학원es – which means, our스케줄이are 다 달라 –같이 It’s hard to 00 하기가 사실은 어려워
  – that’s why we그래서 할 수 있을 때 해
  
-Well...actually there is no set time for shopping, what I'm saying is...
-I don't do that on the regular basis, because it's really difficult to make the time.
-I work, my wife works and my son is busy going to school and academies.
-Which means our schedule are all different. It's really really hard to go shopping together.
+Well...as a matter of fact, there is no set time for shopping, what I'm trying to saying is that...
+I don't do that on the regular basis, because it's really tough to make the time.
+I mean I work, so does my wife, and my son is also busy going to school and academies.
+Which means our schedule are all different. So to tell you the truth, It's quite hard to go shopping together.
 That's why we go shopping when we can. 
 *tend to 동사: ~하는 편이야
 *by the time: ~할 때 쯤
