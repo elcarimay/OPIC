@@ -33,15 +33,4 @@ it the way I love that time very much.
 - Who do you like going to the **park** with?
 - You responded that you like to enjoy **home vacation**. Who do you spend it with?
 - Who do you spend your **weekend** with?
-```
-3) With my family
-나는 보통 00 가족/베프들과 해 – 왜냐면 요즘 사람들이 다들 핸드폰이 있어서 핸드폰만 보잖아 although다같이 있는 시간에도
-as for me, in the same place – 근데However,  when I 00 with 가족들/친구들이랑, 핸드폰 없이 서로 이야기를 나눌 수 있어서 which is really 좋아  
-– and it’s literally 스마트폰 디톡스 – 그래서 나는(try to)  가족/베프들과 00 하려고 해 without smartphone
 
-Well...I usually enjoy movie with my family. Because you know... nowadays everyone has smartphone.
-So, they only focus on their smartphones although they are together in the same place.
-However, when I go to the movie theater with my family, we can talk each other without smartphone which is really really good.  
-And it's literally smartphone detox. So, I try to watch movies with my family without smartphone.
-
-```
