@@ -6,12 +6,12 @@
 all the time - 하지만 사람이니까 human being. 가끔 스트레스 받지-그럴때는
 in that case, 00를 해.
 
-Well...I usually do exersize when I get stressed out, because I can  
-relieve stress. But, actually I'm not the type of person who gets  
-stressed, because I'm very optimistic and positive.  
-I mean I try to think positively all the time, but you know...I'm
-a human being. So, Somtimes I get stressed, in that case, I just do
-exersize which is really good.  
+Well...in my case I usually do exersize when I get stressed out, because 
+there is a thing that helps me with my stress. But, in fact, I'm not the
+type of person who easily gets stressed, because I'm quite optimistic and
+positive. I mean I try to think positively all the time, but as a human being, 
+it's definitely possible that I get stressed out. So that, you know, I mean,
+in the case, I just do exersize which is really good.  
 ```
 ```cpp
 2) Cheer up
