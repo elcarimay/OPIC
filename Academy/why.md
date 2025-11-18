@@ -21,11 +21,11 @@ in the case, I just do exersize which is really good.
 돼 – which is why 내 생각에는 00이 좋은 방법 인것 같아 – 기분 나아질
 수 있는  
 
-Well... you know, sometimes I feel a little down. So, When I feel
-like that, I just go swimming. Then I cheered up and Also it's a
-positive effect on me. What I'm saying is, it motivates me to
-work harder and do my best. Which is why I think swimming is a
-good way to cheer up.   
+Well... you know, actually there are some times when I feel a little down.
+and when I feel that way, I just go swimming. Then it makes me sure all.
+And on top of that, it has a positive effect on me. What I'm trying to say
+is, it motivates me to work harder and do my best. Which is why I think
+swimming is a good way of feeling better.   
 ```
 ```
 3) Kill time
@@ -35,9 +35,12 @@ good way to cheer up.
 정말 빨리 – which is 좋아 – 다시 말해서 it’s easy to spend시간을 내가
 00 할 때  
 
-I usually enjoy shopping when I kill time. Because actually I don't really  
-like wasting time. But when I do shopping, it's not only fun but also it  
-helps me to relieve my stress and to maintain my health. And of course  
-time goes really fast. Which is really nice. What I'm saying is, doing  
-shopping is a easy way for me to spend time.  
+Well, as you may know, there are some times when I kill time.
+In the case, I usually play basketball with my son. Because actually I
+don't really like wasting time. But when I play basketball with my son,
+it's not only fun but also it helps me to relieve my stress and it's alse
+maintain my health. And it's obviously that time goes really fast. I mean
+I don't even notice how time passes by when playing basketball with my son
+which is really good. In other words it's definitely one of the easiest ways
+to spend time. I'm in kill time.  
 ```
